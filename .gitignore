@@ -1,7 +1,6 @@
 *.pid
 *.swp
 /.bundle
-/bin
 /config/database.yml
 /config/settings.yml
 /config/sunspot.yml
